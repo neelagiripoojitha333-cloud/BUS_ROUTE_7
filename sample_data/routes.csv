@@ -1,0 +1,10 @@
+Source,Destination,Distance_km,Student_Density,Travel_Time_min
+Main-Gate,Hostel-A,0.8,60,4
+Main-Gate,Library,1.5,40,7
+Hostel-A,Academic-Block,1.0,90,5
+Library,Academic-Block,0.7,30,4
+Academic-Block,Canteen,0.5,70,3
+Canteen,Hostel-B,1.2,50,6
+Library,Hostel-B,2.0,20,9
+Academic-Block,Sports-Complex,1.8,25,8
+Sports-Complex,Hostel-B,1.0,35,5
